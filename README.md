@@ -2,7 +2,7 @@
 
 ## 1. PYTHON
 
-### 1. [Basics]('https://github.com/JaydeepAgravat/PYTHON/blob/main/001_basics.ipynb')
+### 1. [Basics](https://github.com/JaydeepAgravat/PYTHON/blob/main/001_basics.ipynb)
 
 - About Python
 - Output
@@ -14,7 +14,7 @@
 - Type conversion
 - Literals
 
-### 2. [Operators | if-else | Loops]('https://github.com/JaydeepAgravat/PYTHON/blob/main/002_operators_if_else_loops.ipynb')
+### 2. [Operators | if-else | Loops](https://github.com/JaydeepAgravat/PYTHON/blob/main/002_operators_if_else_loops.ipynb)
 
 - Operators
 - if-else
@@ -23,7 +23,7 @@
 - Nested Loop
 - Loop Control Statement
 
-### 3. [String]('https://github.com/JaydeepAgravat/PYTHON/blob/main/003_string.ipynb')
+### 3. [String](https://github.com/JaydeepAgravat/PYTHON/blob/main/003_string.ipynb)
 
 - String
 - Creating Stings
@@ -41,7 +41,7 @@
 - strip
 - Programs on Strings
 
-### 4. [Time complexity]('https://github.com/JaydeepAgravat/PYTHON/blob/main/004_time_complexity.ipynb')
+### 4. [Time complexity](https://github.com/JaydeepAgravat/PYTHON/blob/main/004_time_complexity.ipynb)
 
 - What is efficiency in programming?
 - Why efficiency is important?
