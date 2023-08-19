@@ -1,6 +1,6 @@
 # DATA SCIENCE
 
-## 1. PYTHON
+## 1. [PYTHON](https://github.com/JaydeepAgravat/PYTHON/tree/main)
 
 ### 1. [Basics](https://github.com/JaydeepAgravat/PYTHON/blob/main/001_basics.ipynb)
 
@@ -39,7 +39,7 @@
 - split / join
 - replace
 - strip
-- Programs on Strings
+- Programs on String
 
 ### 4. [Time complexity](https://github.com/JaydeepAgravat/PYTHON/blob/main/004_time_complexity.ipynb)
 
@@ -62,11 +62,114 @@
   - O(1), O(log(n)), O(n), O(nlog(n)), O(n^2), O(2^n)
 - Examples
 
-### 5. List
+### 5. [List](https://github.com/JaydeepAgravat/PYTHON/blob/main/005_list.ipynb)
 
-### 6. Tuple | Set | Dictionary
+- List
+- Array vs Lists
+- How lists are stored in memory
+- Characteristics of a List
+- Creating a list
+- Accessing items from a list
+- Adding Items to a List: append(), extend() & insert()
+- Editing items in a list
+- Deleting items from a list: del, remove(), pop() & clear()
+- Operators on Lists: Arithmetic, Membership, and loop
+- List Function: len(), min(), max(), sorted(), count(), index(), reverse(), sort(), copy()
+- List Comprehension
+- 2 ways to traverse a list (loop): item wise & index wise
+- zip() function
+- Disadvantages of List
+- How to take list as input from user
+- List Programs
 
-### 7. [Function]('')
+### 6. [Tuple | Set | Dictionary](https://github.com/JaydeepAgravat/PYTHON/blob/main/006_tuple_set_dictionary.ipynb)
+
+- Tuple
+  - Creating Tuples
+  - Accessing Items
+  - Editing items (error)
+  - Adding items (error)
+  - Deleting items
+  - Operations on Tuples
+  - Tuple Functions
+  - Difference between Lists and Tuples
+  - Why use tuple?
+  - Special Syntax/ tuple unpacking/ zip()
+- Set
+  - Creating Sets
+  - Accessing Items (error)
+  - Editing Items (error)
+  - Adding Items
+  - Deleting Items
+  - Set Operation
+  - Set Functions
+  - Frozenset
+  - Set Comprehension/ zip()
+- Dictionary
+  - Create Dictionary
+  - Accessing items
+  - Adding key-value pair
+  - Remove key-value pair
+  - Editing key-value pair
+  - Dictionary Operations
+  - Dictionary Functions
+  - Dictionary Comprehension/ zip()
+
+### 7. [Function](https://github.com/JaydeepAgravat/PYTHON/blob/main/007_functions.ipynb)
+
+- Function
+- docstring
+- 2 Point of views
+- Parameters Vs Arguments
+- Types of Arguments
+- \*args and \*\*kwargs
+- How Functions are executed in memory
+- Without return statement
+- Variable Scope
+- Nested Functions
+- Functions are 1st class citizens
+- Benefits of using a Function
+- Lambda Function
+- Lambda vs Normal Function
+- Higher Order Functions
+- Map
+- Filter
+- Reduce
+
+### 8. [OOP-1]('')
+
+- Class & Object
+- Class Diagram
+- Constructor
+- Method vs Function
+- self
+- Magic Method
+
+### 9. [OOP2]('')
+
+- How objects access attributes
+- Attribute creation from outside of the class
+- Reference Variables
+- Pass by Reference
+- Mutability of Object
+- Encapsulation
+- Collection of objects
+- Static variables vs Instance variables
+- Static methods
+
+### 10. [OOP3]('')
+
+### 11. [File Handling | Serialization | Deserialization]('')
+
+### 12. [Recursion]('')
+
+### 13. [Exception Handling]('')
+
+### 14. [Decorator | Namespace]('')
+
+### 15. [Iterators]('')
+
+### 16. [Generators]('')
 
 ## TASK
 
@@ -76,9 +179,22 @@
 - [Task-4]('')
 - [Task-5]('')
 - [Task-6]('')
+- [Task-7]('')
+- [Task-8]('')
+- [Task-9]('')
+- [Task-10]('')
+- [Task-11]('')
+- [Task-12]('')
 
 ## INTERVIEW QUESTIONS
 
 - Week 1 Interview Questions
 - Week 2 Interview Questions
-- Array  Interview Questions
+- Array Interview Questions
+- Week 3 Interview Questions
+- Week 4 Interview Questions
+
+## Project
+
+1. oop
+2. gui
