@@ -2,7 +2,8 @@
 
 ## [PYTHON](https://github.com/JaydeepAgravat/PYTHON/tree/main)
 
-### [1. Basics](https://github.com/JaydeepAgravat/PYTHON/blob/main/001_basics.ipynb)
+<details>
+<summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/001_basics.ipynb">1. Basics</a></summary>
 
 - About Python
 - Output
@@ -13,8 +14,10 @@
 - Input
 - Type conversion
 - Literals
+</details>
 
-### [2. Operators | if-else | Loops](https://github.com/JaydeepAgravat/PYTHON/blob/main/002_operators_if_else_loops.ipynb)
+<details>
+<summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/002_operators_if_else_loops.ipynb">2. Operators | if-else | Loops</a></summary>
 
 - Operators
 - if-else
@@ -22,8 +25,10 @@
 - Loops
 - Nested Loop
 - Loop Control Statement
+</details>
 
-### [3. String](https://github.com/JaydeepAgravat/PYTHON/blob/main/003_string.ipynb)
+<details>
+<summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/003_string.ipynb">3. String</a></summary>
 
 - String
 - Creating Stings
@@ -40,8 +45,10 @@
 - replace
 - strip
 - Programs on String
+</details>
 
-### [4. Time complexity](https://github.com/JaydeepAgravat/PYTHON/blob/main/004_time_complexity.ipynb)
+<details>
+<summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/004_time_complexity.ipynb">4. Time complexity</a></summary>
 
 - What is efficiency in programming?
 - Why efficiency is important?
@@ -61,8 +68,10 @@
 - Complexity Growth
   - O(1), O(log(n)), O(n), O(nlog(n)), O(n^2), O(2^n)
 - Examples
+</details>
 
-### [5. List](https://github.com/JaydeepAgravat/PYTHON/blob/main/005_list.ipynb)
+<details>
+<summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/005_list.ipynb">5. List</a></summary>
 
 - List
 - Array vs Lists
@@ -81,8 +90,10 @@
 - Disadvantages of List
 - How to take list as input from user
 - List Programs
+</details>
 
-### [6. Tuple | Set | Dictionary](https://github.com/JaydeepAgravat/PYTHON/blob/main/006_tuple_set_dictionary.ipynb)
+<details>
+<summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/006_tuple_set_dictionary.ipynb">6. Tuple | Set | Dictionary</a></summary>
 
 - Tuple
   - Creating Tuples
@@ -114,15 +125,17 @@
   - Dictionary Operations
   - Dictionary Functions
   - Dictionary Comprehension/ zip()
+</details>
 
-### [7. Function](https://github.com/JaydeepAgravat/PYTHON/blob/main/007_functions.ipynb)
+<details>
+<summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/007_functions.ipynb">7. Function</a></summary>
 
 - Function
 - docstring
 - 2 Point of views
 - Parameters Vs Arguments
 - Types of Arguments
-- \*args and \*\*kwargs
+- *args and **kwargs
 - How Functions are executed in memory
 - Without return statement
 - Variable Scope
@@ -135,8 +148,10 @@
 - Map
 - Filter
 - Reduce
+</details>
 
-### [8. OOP-1]('')
+<details>
+<summary><a href="">8. OOP-1</a></summary>
 
 - Class & Object
 - Class Diagram
@@ -144,8 +159,10 @@
 - Method vs Function
 - self
 - Magic Method
+</details>
 
-### [9. OOP2]('')
+<details>
+<summary><a href="">9. OOP2</a></summary>
 
 - How objects access attributes
 - Attribute creation from outside of the class
@@ -156,8 +173,10 @@
 - Collection of objects
 - Static variables vs Instance variables
 - Static methods
+</details>
 
-### [10. OOP3]('')
+<details>
+<summary><a href="">10. OOP3</a></summary>
 
 - Class Relationship
 - Aggregation (Has-A relationship)
@@ -177,8 +196,10 @@
 - Method Overloading
 - Operator Overloading
 - Abstraction
+</details>
 
-### [11. File Handling]('')
+<details>
+<summary><a href="">11. File Handling</a></summary>
 
 - Types of data in I/O
 - How file I/O is done in most programming languages
@@ -202,8 +223,10 @@
 - Serializing and Deserializing custom objects
 - Pickling
 - Pickle Vs Json
+</details>
 
-### [12. Recursion]('')
+<details>
+<summary><a href="">12. Recursion</a></summary>
 
 - a*b
 - n!
@@ -211,8 +234,10 @@
 - Fibonacci Sequence
 - Memoization
 - Power Set
+</details>
 
-### [13. Exception Handling]('')
+<details>
+<summary><a href="">13. Exception Handling</a></summary>
 
 - Stages Where Error May Occur
 - Syntax Error
@@ -224,8 +249,10 @@
 - Try - Except - Else - Finally
 - Raise Exception
 - Creating Custom Exception
+</details>
 
-### [14. Namespace | Decorator]('')
+<details>
+<summary><a href="">14. Namespace | Decorator</a></summary>
 
 - Namespaces
 - Scope and LEGB Rule
@@ -233,8 +260,10 @@
 - built-in scope
 - enclosing scope
 - Decorators
+</details>
 
-### [15. Iterator]('')
+<details>
+<summary><a href="">15. Iterator</a></summary>
 
 - Iterable
 - Iterator
@@ -242,8 +271,10 @@
 - Working of for loop
 - Custom for loop
 - Custom range function
+</details>
 
-### [16. Generator]('')
+<details>
+<summary><a href="">16. Generator</a></summary>
 
 - Generator Functions
 - Generator Expressions
@@ -251,27 +282,8 @@
 - Yield and Yield From
 - Custome range function with generator
 - Benefits of using a Generator
+</details>
 
 ## [NUMPY]('')
 
 ## [PANDAS]('')
-
-## TASK
-
-- [Task-1]('')
-- [Task-2]('')
-- [Task-3]('')
-- [Task-4]('')
-- [Task-5]('')
-- [Task-6]('')
-- [Task-7]('')
-- [Task-8]('')
-- [Task-9]('')
-- [Task-10]('')
-- [Task-11]('')
-- [Task-12]('')
-
-## Project
-
-1. oop
-2. gui
