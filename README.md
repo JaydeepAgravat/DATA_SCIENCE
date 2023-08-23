@@ -2,6 +2,7 @@
 
 <details>
 <summary>PYTHON</summary>
+<br>
 
   <details>
   <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/001_basics.ipynb">1. Basics</a></summary>
