@@ -293,4 +293,36 @@
 
 <details>
 <summary>PANDAS</summary>
+<br>
+  
+  <details>
+  <summary><a href="https://github.com/JaydeepAgravat/PANDAS/blob/main/001_series.ipynb">1. Series</a></summary>
+  
+  - Pandas Series
+  - Series from lists
+  - Series from dict
+  - Series Attributes
+  - Series using read_csv
+  - Series methods
+  - Series Maths Methods
+  - Series Indexing
+  - Series with Python Functionalities
+  - Boolean Indexing on Series
+  - Plotting Graphs on Series
+  - Some Important Series Methods
+  </details>
+
+  <details>
+  <summary><a href="https://github.com/JaydeepAgravat/PANDAS/blob/main/002_dataframe.ipynb">2. DataFrame</a></summary>
+     
+  - Pandas DataFrame
+  - Creating DataFrame
+  - DataFrame Attributes and Methods
+  - Math Methods
+  - Selecting cols from a DataFrame
+  - Selecting rows from a DataFrame
+  - Selecting both rows and cols
+  - Filtering a DataFrame
+  - Adding new cols
+  </details>
 </details>
