@@ -265,7 +265,7 @@
   </details>
   
   <details>
-  <summary><a href="">15. Iterator</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/015_Iterator.ipynb">15. Iterator</a></summary>
   
   - Iterable
   - Iterator
@@ -276,7 +276,7 @@
   </details>
   
   <details>
-  <summary><a href="">16. Generator</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/016_generator.ipynb">16. Generator</a></summary>
   
   - Generator Functions
   - Generator Expressions
