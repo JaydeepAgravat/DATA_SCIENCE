@@ -325,4 +325,11 @@
   - Filtering a DataFrame
   - Adding new cols
   </details>
+
+  <details>
+  <summary><a href="https://github.com/JaydeepAgravat/PANDAS/blob/main/003_methods.ipynb">3. Methods</a></summary>
+  
+  - Series methods
+  - DataFrame methods     
+  </details>
 </details>
