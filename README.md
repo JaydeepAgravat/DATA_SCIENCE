@@ -153,7 +153,7 @@
   </details>
   
   <details>
-  <summary><a href="">8. OOP-1</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/008_oop_1.ipynb">8. OOP1</a></summary>
   
   - Class & Object
   - Class Diagram
@@ -228,7 +228,7 @@
   </details>
   
   <details>
-  <summary><a href="">12. Recursion</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/012_recursion.ipynb">12. Recursion</a></summary>
   
   - a*b
   - n!
@@ -239,7 +239,7 @@
   </details>
   
   <details>
-  <summary><a href="">13. Exception Handling</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/013_exception_handling.ipynb">13. Exception Handling</a></summary>
   
   - Stages Where Error May Occur
   - Syntax Error
