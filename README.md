@@ -164,7 +164,7 @@
   </details>
   
   <details>
-  <summary><a href="">9. OOP2</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/009_oop_2.ipynb">9. OOP2</a></summary>
   
   - How objects access attributes
   - Attribute creation from outside of the class
@@ -178,7 +178,7 @@
   </details>
   
   <details>
-  <summary><a href="">10. OOP3</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/010_oop_3.ipynb">10. OOP3</a></summary>
   
   - Class Relationship
   - Aggregation (Has-A relationship)
@@ -201,7 +201,7 @@
   </details>
   
   <details>
-  <summary><a href="">11. File Handling</a></summary>
+  <summary><a href="https://github.com/JaydeepAgravat/PYTHON/blob/main/011_file_handling.ipynb">11. File Handling</a></summary>
   
   - Types of data in I/O
   - How file I/O is done in most programming languages
